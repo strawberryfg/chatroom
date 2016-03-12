@@ -1,0 +1,30 @@
+D:\个人文件夹\computernetwork\chatroom\chatroom\chatroom\bin\Debug\chatroom.exe.config
+D:\个人文件夹\computernetwork\chatroom\chatroom\chatroom\bin\Debug\chatroom.exe
+D:\个人文件夹\computernetwork\chatroom\chatroom\chatroom\bin\Debug\chatroom.pdb
+D:\个人文件夹\computernetwork\chatroom\chatroom\chatroom\obj\Debug\chatroom.csprojResolveAssemblyReference.cache
+D:\个人文件夹\computernetwork\chatroom\chatroom\chatroom\obj\Debug\chatroom.Properties.Resources.resources
+D:\个人文件夹\computernetwork\chatroom\chatroom\chatroom\obj\Debug\chatroom.csproj.GenerateResource.Cache
+D:\个人文件夹\computernetwork\chatroom\chatroom\chatroom\obj\Debug\chatroom.exe
+D:\个人文件夹\computernetwork\chatroom\chatroom\chatroom\obj\Debug\chatroom.pdb
+D:\个人文件夹\computernetwork\chatroom\chatroom\chatroom\obj\Debug\chatroom.frmserver.resources
+D:\个人文件夹\computernetwork\chatroom\chatroom\chatroom\obj\Debug\chatroom.frmclient.resources
+D:\个人文件夹\computernetwork\chatroom\chatroom\chatroom\obj\Debug\chatroom.frmmain.resources
+D:\个人文件夹\computernetwork\chatroom\chatroom\chatroom\bin\Debug\chatroom.exe.manifest
+D:\个人文件夹\computernetwork\chatroom\chatroom\chatroom\bin\Debug\chatroom.application
+D:\个人文件夹\computernetwork\chatroom\chatroom\chatroom\obj\Debug\chatroom.exe.manifest
+D:\个人文件夹\computernetwork\chatroom\chatroom\chatroom\obj\Debug\chatroom.application
+D:\个人文件夹\computernetwork\计算机网络PJ聊天室 13307130173 万清甫\chatroom\chatroom\chatroom\bin\Debug\chatroom.exe.config
+D:\个人文件夹\computernetwork\计算机网络PJ聊天室 13307130173 万清甫\chatroom\chatroom\chatroom\obj\Debug\chatroom.exe
+D:\个人文件夹\computernetwork\计算机网络PJ聊天室 13307130173 万清甫\chatroom\chatroom\chatroom\obj\Debug\chatroom.pdb
+D:\个人文件夹\computernetwork\计算机网络PJ聊天室 13307130173 万清甫\chatroom\chatroom\chatroom\bin\Debug\chatroom.exe.manifest
+D:\个人文件夹\computernetwork\计算机网络PJ聊天室 13307130173 万清甫\chatroom\chatroom\chatroom\bin\Debug\chatroom.application
+D:\个人文件夹\computernetwork\计算机网络PJ聊天室 13307130173 万清甫\chatroom\chatroom\chatroom\bin\Debug\chatroom.exe
+D:\个人文件夹\computernetwork\计算机网络PJ聊天室 13307130173 万清甫\chatroom\chatroom\chatroom\bin\Debug\chatroom.pdb
+D:\个人文件夹\computernetwork\计算机网络PJ聊天室 13307130173 万清甫\chatroom\chatroom\chatroom\obj\Debug\chatroom.csprojResolveAssemblyReference.cache
+D:\个人文件夹\computernetwork\计算机网络PJ聊天室 13307130173 万清甫\chatroom\chatroom\chatroom\obj\Debug\chatroom.frmclient.resources
+D:\个人文件夹\computernetwork\计算机网络PJ聊天室 13307130173 万清甫\chatroom\chatroom\chatroom\obj\Debug\chatroom.frmmain.resources
+D:\个人文件夹\computernetwork\计算机网络PJ聊天室 13307130173 万清甫\chatroom\chatroom\chatroom\obj\Debug\chatroom.frmserver.resources
+D:\个人文件夹\computernetwork\计算机网络PJ聊天室 13307130173 万清甫\chatroom\chatroom\chatroom\obj\Debug\chatroom.Properties.Resources.resources
+D:\个人文件夹\computernetwork\计算机网络PJ聊天室 13307130173 万清甫\chatroom\chatroom\chatroom\obj\Debug\chatroom.csproj.GenerateResource.Cache
+D:\个人文件夹\computernetwork\计算机网络PJ聊天室 13307130173 万清甫\chatroom\chatroom\chatroom\obj\Debug\chatroom.exe.manifest
+D:\个人文件夹\computernetwork\计算机网络PJ聊天室 13307130173 万清甫\chatroom\chatroom\chatroom\obj\Debug\chatroom.application

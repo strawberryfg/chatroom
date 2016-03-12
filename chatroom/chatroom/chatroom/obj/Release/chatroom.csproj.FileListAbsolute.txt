@@ -1,0 +1,11 @@
+D:\个人文件夹\computernetwork\chatroom\chatroom\chatroom\bin\Release\chatroom.exe.config
+D:\个人文件夹\computernetwork\chatroom\chatroom\chatroom\bin\Release\chatroom.exe
+D:\个人文件夹\computernetwork\chatroom\chatroom\chatroom\bin\Release\chatroom.pdb
+D:\个人文件夹\computernetwork\chatroom\chatroom\chatroom\obj\Release\chatroom.frmserver.resources
+D:\个人文件夹\computernetwork\chatroom\chatroom\chatroom\obj\Release\chatroom.Properties.Resources.resources
+D:\个人文件夹\computernetwork\chatroom\chatroom\chatroom\obj\Release\chatroom.csproj.GenerateResource.Cache
+D:\个人文件夹\computernetwork\chatroom\chatroom\chatroom\obj\Release\chatroom.exe
+D:\个人文件夹\computernetwork\chatroom\chatroom\chatroom\obj\Release\chatroom.pdb
+D:\个人文件夹\computernetwork\chatroom\chatroom\chatroom\obj\Release\chatroom.frmclient.resources
+D:\个人文件夹\computernetwork\chatroom\chatroom\chatroom\obj\Release\chatroom.frmmain.resources
+D:\个人文件夹\computernetwork\chatroom\chatroom\chatroom\obj\Release\chatroom.csprojResolveAssemblyReference.cache
